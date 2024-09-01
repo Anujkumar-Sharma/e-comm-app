@@ -1,0 +1,19 @@
+.footer {
+  @apply bg-gray-100 py-8;
+
+  h3 {
+    @apply text-xl font-bold;
+  }
+
+  p {
+    @apply text-gray-600;
+  }
+
+  input {
+    @apply px-4 py-2 border border-gray-300 rounded;
+  }
+
+  button {
+    @apply ml-2 px-4 py-2 bg-black text-white rounded;
+  }
+}

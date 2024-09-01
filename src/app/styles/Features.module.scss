@@ -1,0 +1,11 @@
+.features {
+  @apply py-8 bg-white;
+
+  h3 {
+    @apply text-xl font-semibold mt-2;
+  }
+
+  p {
+    @apply text-gray-600;
+  }
+}
